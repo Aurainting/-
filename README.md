@@ -2,7 +2,7 @@
 **基于《SICP》**
 
 ## 语言
-commonlisp
+common lisp
 
 ## 运行环境
 lispbox-0.7
